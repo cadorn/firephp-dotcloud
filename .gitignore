@@ -1,0 +1,7 @@
+.DS_Store
+.tmp*
+*.local.*
+/using/
+/.build/
+/.pinf-workspace.json
+/bin/.pinf-activate-workspace

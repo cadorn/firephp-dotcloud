@@ -1,0 +1,9 @@
+{
+    "name": "firephp-dotcloud",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git://github.com/cadorn/firephp-dotcloud.git"
+        }
+    ]
+}

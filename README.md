@@ -46,6 +46,11 @@ Limitations
 
 At this time FirePHP will only work with **single instance** apps. Multi-instance apps will be supported soon once debugging data is stored in _memcache_ instead of _temporary files_.
 
+TODO
+====
+
+  * Figure out a way to use phar archive instead of individual files for FirePHP (problem likely due to [Suhosin](http://www.hardened-php.net/suhosin/index.html))
+
 
 Documentation License
 =====================

@@ -9,7 +9,7 @@ define('INSIGHT_AUTHKEYS', '*');    // UPDATE THIS FOR PRODUCTION USE
 define('INSIGHT_PATHS', dirname(__DIR__));
 define('INSIGHT_SERVER_PATH', '/');
 
-require_once('phar://' . __DIR__ . '/firephp.phar/FirePHP/Init.php');
+require_once(__DIR__ . '/FirePHP/Init.php');
 
 /**
  * Application Code
